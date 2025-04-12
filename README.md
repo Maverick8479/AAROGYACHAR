@@ -1,10 +1,6 @@
 <h1 align="center">🩺 Aarogyachar</h1>
-<h3 align="center">A Smart E-Pharmacy and Disease Prediction Platform Powered by AI</h3>
-
 ## 🧠 Overview
-
-**Aarogyachar** is an AI-driven e-pharmacy platform developed using **Streamlit** and **Flutter**, aimed at providing smart disease prediction and personalized home remedies based on user symptoms.
-
+**Aarogyachar** is a Smart E-Pharmacy and Disease Prediction Platform developed using **Streamlit** and **Flutter**, aimed at providing smart disease prediction and personalized home remedies based on user symptoms.
 ---
 
 ## 🚀 Features
