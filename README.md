@@ -65,12 +65,6 @@
 
 ---
 
-## 📷 Screenshots
-
-> *(Add relevant screenshots or GIF demos of the UI here for better presentation.)*
-
----
-
 ## 📚 Built With
 
 - `Python`
@@ -78,29 +72,5 @@
 - `Flutter`
 - `Scikit-learn`
 - `Pandas`, `NumPy`
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙌 Acknowledgements
-
-- Thanks to contributors of open-source medical datasets and libraries.
-- Developed as part of an AI and healthcare research initiative.
-
----
-
-## 🔗 Connect with Me
-
-<a href="https://www.linkedin.com/in/manasmahajan8479" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://www.instagram.com/your_username/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
 
 ---
