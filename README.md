@@ -1,4 +1,4 @@
-<h1 align="center">🩺 Aarogyachar</h1>
+🩺 Aarogyachar</h1>
 ## 🧠 Overview
 **Aarogyachar** is a Smart E-Pharmacy and Disease Prediction Platform developed using **Streamlit** and **Flutter**, aimed at providing smart disease prediction and personalized home remedies based on user symptoms.
 ---
